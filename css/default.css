@@ -6,6 +6,7 @@
 }
 
 body{
+  background-image: utl(img/good.png),url(img/img.jpg);
   background-color: lightgrey;
   margin: 5px;
 }
